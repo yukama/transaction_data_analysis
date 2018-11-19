@@ -1,5 +1,5 @@
 # transaction_data_analysis
-This is a short data analysis project, using sample credit card transactions data. 
+This is a short data analysis project using sample credit card transactions data. 
 
 Scope
 Use the data provided to answer the following questions:
